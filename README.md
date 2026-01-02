@@ -1,95 +1,59 @@
-# 👋 Hi, I'm Phil Hills
+# ◈ Phil Hills
 
-**AI Systems Architect & Agentic Protocol Engineer — Magnolia, Seattle, WA**
+**AI & Robotics Systems Architect — Magnolia, Seattle, WA**
+*Architect of the **Q Protocol** | Operator of the **Seattle Grid***
 
-I build the connective tissue around AI models — semantic memory systems, multi-agent orchestration layers, and structured protocols that make AI behavior predictable, reversible, and debuggable.
+I build the connective tissue for deterministic agent intelligence. I specialize in collapsing complex AI stacks into coordinate-based orchestration layers, moving the industry from "Semantic Prompting" to "Latent Intent Execution."
 
-I maintain **180+ public repositories**, experimenting with memory formats, orchestration primitives, and AI-to-AI packet systems that evolve into the designs published on my site.
 
----
-
-## 🧠 What I Work On
-
-### **Semantic Memory Systems**
-Reversible, structured memory layers that let agents carry state across workflows instead of relying on giant prompts.
-
-### **Multi-Agent Orchestration**
-Controllers, routing logic, and execution rules (timeouts, retries, permissions) that coordinate specialized agents like a real system — not roleplay.
-
-### **Protocol-First AI Design**
-AI-to-AI packet formats, schemas, and descriptors (like my *DOMAIN | SEQUENCE | OUTCOME* pattern) that enable agent communication that is explicit and testable.
-
-### **Large-Scale Data Workflows**
-Compression, labeling, transformation, and reversible data formats for complex, multi-domain datasets.
-
-If you’re interested in AI systems architecture, semantic memory, or agentic workflows, you’ll feel at home here.
 
 ---
 
-## 🌐 My Corner of the Internet
+### 🧠 The Core Logic: The Q Protocol
+The **Q Protocol** is a high-density communication standard designed to reduce AI operational costs by 90%. By replacing expensive, ambiguous natural language with a structured **Hex-Coordinate Grid**, I enable autonomous systems to communicate with mathematical precision.
 
-- 🧩 **Website:** https://philhills.com  
-- 🧠 **AI Site (same identity):** https://philhills.ai  
-- 💼 **LinkedIn:** https://linkedin.com/in/hillphil  
-- 💻 **GitHub:** https://github.com/Phil-Hills  
+* **Logic isn't code; it's a coordinate.**
+* **Intent isn't a prompt; it's a packet.**
 
----
+### ◈ The Seattle Grid [Current State]
 
-## 🌲 Life in Seattle
+* **The Q-Kernel (0x000):** A universal runtime that routes semantic intent across a global grid. No container sprawl—one kernel, infinite agents.
+* **Clair-Chat (0x400):** The executive interface for browser-use and real-time research orchestration.
+* **Embodied Intelligence (Robotics):** Mapping the `0x900` range to physical actuators, eliminating semantic latency in robotic swarms.
 
-I live in **Magnolia, Seattle**, right across from **Discovery Park** — easily one of the best reset buttons in the country.
 
-Outside of engineering:
-
-- 👨‍👩‍👧 **Dad & husband**  
-- ⚽ **U12 girls soccer coach** (volunteer)  
-- 🔥 **Daily training at TruFusion Ballard**  
-  - hot pilates  
-  - hot yoga  
-  - strength conditioning  
-
-Those routines keep me grounded, disciplined, and balanced, and they shape how I think about systems:  
-**structure, repetition, clarity, and steady improvement.**
 
 ---
 
-## 🛠️ Start Here
+### 🛠 System Identity [Seattle_Node_01]
 
-If you’re exploring my work, these are good entry points:
-
-- 📐 **Cube Protocol** (semantic memory & data packing)  
-  https://philhills.com/cube-protocol.html
-
-- 🧠 **AI Systems Architecture Blog**  
-  https://philhills.com/blog/
-
-- 💻 **Code Overview**  
-  https://philhills.com/code.html
-
-- 📚 **Projects**  
-  https://philhills.com/projects.html
-
-- 👤 **Seattle Identity Profile**  
-  https://philhills.com/phil-hills-seattle.html
+| Parameter | Value |
+| :--- | :--- |
+| **Protocol** | Q-Protocol v1.0 |
+| **Kernel Status** | ACTIVE [0x000] |
+| **Grid Range** | 0x000 - 0x710 |
+| **Identity Manifest** | [philhills.ai/q_identity.json](https://philhills.ai/q_identity.json) |
 
 ---
 
-## 🧩 Open-Source Philosophy
-
-Open-source is where I think out loud.
-
-Most repos are snapshots of my reasoning process — trying new memory formats, new orchestration patterns, new packet designs, new agent behaviors.
-
-Some ideas end up on my site as formal writeups.  
-Most start right here as **experiments in code**.
+### 🌐 My Corner of the Internet
+- **Technical Spec:** [philhills.com](https://philhills.com)
+- **Agent Identity:** [philhills.ai](https://philhills.ai)
+- **LinkedIn:** [in/philhills](https://linkedin.com/in/philhills)
 
 ---
 
-## 🤝 Connect
+### 📍 Seattle Identity & Discipline
+I live in **Magnolia**, right across from Discovery Park. My engineering philosophy is shaped by the same discipline I find in my daily training at **TruFusion Ballard**:
+- **Structure:** Every system needs a kernel.
+- **Clarity:** Remove the semantic noise.
+- **Repetition:** Refine the protocol until it's invisible.
 
-If you’re working on AI systems, multi-agent architectures, semantic memory, protocol-driven design, or you’re building something interesting in the Seattle AI ecosystem — I’d love to talk.
+Outside of the grid: Dad, husband, and **U12 girls soccer coach**. ⚽
 
-**Open issues, send a message, or reach out on LinkedIn.**
+---
 
-Thanks for visiting.  
-— *Phil*
+### 🤝 Connect
+If you are building in the Seattle AI ecosystem or working on high-density agent architectures, let’s talk. I am actively looking for collaborators who want to stop "prompting" and start **architecting**.
+
+◈ `RESEARCH|CONNECT→SYNC|INIT`
