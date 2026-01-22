@@ -1,5 +1,5 @@
 # ◈ Phil Hills
-**AI & Robotics Systems Architect — Magnolia, Seattle, WA**
+**AI Systems Architect — Magnolia, Seattle, WA**
 *Architect of the **Q Protocol** | Operator of the **Seattle Grid***
 
 I build the connective tissue for deterministic agent intelligence. I specialize in collapsing complex AI stacks into coordinate-based orchestration layers, moving the industry from "Semantic Prompting" to "Latent Intent Execution."
