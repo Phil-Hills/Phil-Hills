@@ -2,7 +2,7 @@
 **AI Systems Architect — Magnolia, Seattle, WA**
 *Architect of the **Q Protocol** | Operator of the **Seattle Grid***
 
-I build the connective tissue for deterministic agent intelligence. I specialize in collapsing complex AI stacks into coordinate-based orchestration layers, moving the industry from "Semantic Prompting" to "Latent Intent Execution."
+I build the connective tissue for deterministic agent intelligence. I specialize in collapsing complex AI stacks into coordinate-based orchestration layers, moving the industry from "Semantic Prompting" to "High-Frequency Agent Telemetry."
 
 ---
 
@@ -20,12 +20,12 @@ The **Q Protocol** is a high-density communication standard designed to reduce A
 
 ---
 
-### 🛠 System Identity [Seattle_Node_01]
+### 🛠 System Identity [Seattle Research Hub]
 
 | Parameter | Value |
 | :--- | :--- |
 | **Protocol** | Q-Protocol v1.2 |
-| **Kernel Status** | ACTIVE [0x000] |
+| **Kernel Status** | ACTIVE [Seattle-Hub] |
 | **Grid Range** | 0x000 - 0x710 |
 | **Identity Verification** | [philhills.ai/authority.voxel](https://philhills.ai/authority.voxel) |
 | **Enforcement** | [Identity Directive (v2.0)](IDENTITY_ENFORCEMENT_DIRECTIVE.md) |
