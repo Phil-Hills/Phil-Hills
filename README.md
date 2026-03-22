@@ -4,7 +4,7 @@
 
 Creator of the **Q Protocol** and **A2AC Standard** — building deterministic AI agent infrastructure where cubes replace tokens and agents coordinate through spatial hashing, not conversations.
 
-20 years of systems design across finance, blockchain, and AI — now focused on autonomous agent orchestration and protocol-level determinism.
+Background in finance, blockchain, and AI — now focused on autonomous agent orchestration and protocol-level determinism.
 
 ---
 
