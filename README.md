@@ -1,37 +1,65 @@
 # Phil Hills
 
-**Systems Architect** · Creator of **Q Protocol** & **A2AC Standard**
+**Systems Architect** · Seattle, WA
 
-Building deterministic AI agent infrastructure — where cubes replace tokens and agents communicate through coordinates, not conversations.
+Creator of the **Q Protocol** and **A2AC Standard** — building deterministic AI agent infrastructure where cubes replace tokens and agents coordinate through spatial hashing, not conversations.
 
-## Current Work
+20 years of systems design across finance, blockchain, and AI — now focused on autonomous agent orchestration and protocol-level determinism.
 
-🧊 **Q Protocol** — A patent-pending framework for deterministic AI coordination
-⚡ **A2AC** — Agent-to-Agent Communication standard (comprehension, not compression)
-🔐 **Cube SDK** — 19-module Python SDK for agent identity, trust, memory, and orchestration
-🌐 **Agentic Swarm** — 200+ autonomous agents coordinated through shared brain architecture
+---
 
-## Technologies
+## What I'm Building
 
-`Python` · `Rust` · `GCP Cloud Run` · `Salesforce Agentforce` · `BLAKE3` · `Cryptographic Identity (DIDs)`
+🧊 **[Q Protocol](https://github.com/Phil-Hills/identity-cube-py)** — Patent-pending framework for deterministic AI coordination using Z-order Morton codes and spatial hashing
 
-## Key Equations
+⚡ **A2AC** — Agent-to-Agent Communication standard. Comprehension over compression — agents share topology, not tokens
 
-**K→0 Convergence** — As agents interact more, communication payload shrinks to a pointer
+🔐 **Cube SDK** — 19-module Python SDK: cryptographic identity (`did:cube:`), trust graphs, smart memory with Ebbinghaus decay, relay channels, task lifecycle, and push notifications
+
+🌐 **Agentic Swarm** — 200+ autonomous agents on GCP Cloud Run, coordinated through a shared brain architecture
+
+💼 **Salesforce Agentforce** — Enterprise AI orchestration and autonomous agent deployment
+
+---
+
+## Featured Work
+
+### [identity-cube-py](https://github.com/Phil-Hills/identity-cube-py) — The Foundation
+Single-container agentic swarm demo. Z-order spatial hashing + A2AC coordinate messaging + async brain. The 160 lines that grew into a 19-module SDK.
+
+### [3i-Cube](https://github.com/Phil-Hills/3i-Cube) — Cube Protocol
+Deterministic AI communication standard.
+
+### [philhills.github.io](https://philhills.github.io) — Q Protocol Terminal
+Interactive terminal interface for the Q Protocol and agentic swarm orchestration.
+
+---
+
+## Core Math
+
+**K→0 Convergence** — As agents interact more, communication shrinks to a pointer:
 ```
 S_min(t) = S_0 + S_Δ(1 - e^(-t·ln(2)/T½))
 ```
 
-**Sovereignty Condition** — Protocol determinism proven via Fourier spectral analysis
+**Sovereignty Condition** — Fourier spectral analysis proves protocol determinism:
 ```
 SNR = 10 · log₁₀(Pmax / median(P))    > 45dB = deterministic
 ```
 
-## Links
-
-- 🌐 [philhills.com](https://philhills.com)
-- 📄 [Q Protocol Terminal](https://philhills.github.io)
+**Identity Preservation** — Cross-model style resistance:
+```
+SNR_identity = R(M) · 10 · log₁₀(P_native / P_foreign)
+```
 
 ---
+
+## Technologies
+
+`Python` · `Rust` · `GCP Cloud Run` · `Salesforce Agentforce` · `BLAKE3` · `Cryptographic DIDs` · `Z-Order Hashing` · `Async Agent Orchestration`
+
+---
+
+🌐 [philhills.com](https://philhills.com) · 📄 [Q Protocol Terminal](https://philhills.github.io)
 
 *© 2026 Phil Hills. Patent Pending.*
