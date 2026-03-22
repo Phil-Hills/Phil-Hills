@@ -10,15 +10,15 @@ Creator of the **Q Protocol** and **A2AC Standard** — building deterministic A
 
 ## What I'm Building
 
-🧊 **[Q Protocol](https://github.com/Phil-Hills/identity-cube-py)** — Patent-pending framework for deterministic AI coordination using Z-order Morton codes and spatial hashing
+**[Q Protocol](https://github.com/Phil-Hills/identity-cube-py)** — Patent-pending framework for deterministic AI coordination using Z-order Morton codes and spatial hashing
 
-⚡ **A2AC** — Agent-to-Agent Communication standard. Comprehension over compression — agents share topology, not tokens
+**A2AC** — Agent-to-Agent Communication standard. Comprehension over compression — agents share topology, not tokens
 
-🔐 **Cube SDK** — 19-module Python SDK: cryptographic identity (`did:cube:`), trust graphs, smart memory with Ebbinghaus decay, relay channels, task lifecycle, and push notifications
+**Cube SDK** — 19-module Python SDK: cryptographic identity (`did:cube:`), trust graphs, smart memory with Ebbinghaus decay, relay channels, task lifecycle, and push notifications
 
-🌐 **Agentic Swarm** — 200+ autonomous agents on GCP Cloud Run, coordinated through a shared brain architecture
+**Agentic Swarm** — 200+ autonomous agents on GCP Cloud Run, coordinated through a shared brain architecture
 
-💼 **Salesforce Agentforce** — Enterprise AI orchestration and autonomous agent deployment
+**Salesforce Agentforce** — Enterprise AI orchestration and autonomous agent deployment
 
 ---
 
@@ -60,6 +60,6 @@ SNR_identity = R(M) · 10 · log₁₀(P_native / P_foreign)
 
 ---
 
-🌐 [philhills.com](https://philhills.com) · 📄 [Q Protocol Terminal](https://philhills.github.io)
+[philhills.com](https://philhills.com) · [Q Protocol Terminal](https://philhills.github.io)
 
 *© 2026 Phil Hills. Patent Pending.*
