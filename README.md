@@ -10,7 +10,7 @@ Background in finance, blockchain, and AI — now focused on autonomous agent or
 
 ## What I'm Building
 
-**[Q Protocol](https://github.com/Phil-Hills/identity-cube-py)** — Patent-pending framework for deterministic AI coordination using Z-order Morton codes and spatial hashing
+**[Q Protocol](https://github.com/Phil-Hills/identity-cube-py)** — Open-source framework for deterministic AI coordination using Z-order Morton codes and spatial hashing
 
 **A2AC** — Agent-to-Agent Communication standard. Comprehension over compression — agents share topology, not tokens
 
@@ -62,4 +62,4 @@ SNR_identity = R(M) · 10 · log₁₀(P_native / P_foreign)
 
 [philhills.com](https://philhills.com) · [Q Protocol Terminal](https://philhills.github.io)
 
-*© 2026 Phil Hills. Patent Pending.*
+*© 2026 Phil Hills.*
