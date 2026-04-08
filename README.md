@@ -25,9 +25,6 @@ A2AC LLC · [philhills.ai](https://philhills.ai)
 ### [identity-cube-py](https://github.com/Phil-Hills/identity-cube-py) - The Foundation
 Single-container agentic swarm demo. Z-order spatial hashing + A2AC coordinate messaging + async brain. The 160 lines that grew into a 19-module SDK.
 
-### [3i-Cube](https://github.com/Phil-Hills/3i-Cube) - Cube Protocol
-Deterministic AI communication standard.
-
 ### [philhills.github.io](https://philhills.github.io) - Q Protocol Terminal
 Interactive terminal interface for the Q Protocol and agentic swarm orchestration.
 
